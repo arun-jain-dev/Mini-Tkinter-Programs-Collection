@@ -1,3 +1,7 @@
 # Mini-Tkinter-Programs-Collection
 
-A Repository showcasing all the projects ideas and their implementations that I came up during my learning of Python and Tkinter Framework.
+A repository that aims at keeping a collection of all mini projects using Python and Tkinter Framework.
+
+Projects of all level and complexities are appreciated.
+
+Contributions in the form of individual projects or creating intuitive and easy to understand documentation are welcomed.
